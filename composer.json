@@ -1,0 +1,23 @@
+{
+    "name": "xudoyshukur/yii2-agr",
+    "description": "PaySys Yii2",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xudoyshukur\\Yii2Agr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Xudoyshukur",
+            "email": "xudush.egamov@mail.ru"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"yii2-agr\\": "src/"
+		}
+	},
+    "require": {}
+}
