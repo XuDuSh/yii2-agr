@@ -3,11 +3,6 @@
     "description": "PaySys Yii2",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Xudoyshukur\\Yii2Agr\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Xudoyshukur",
