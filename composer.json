@@ -14,5 +14,6 @@
 			"yii2-agr\\": "src/"
 		}
 	},
-    "require": {}
+    "require": {},
+	"minimum-stability": "dev"
 }
